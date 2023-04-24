@@ -30,8 +30,8 @@
 
 ```javascript
 const config = {
-    name: "Hack Elite +",
-    group_number: 31,
+    name: "Cyberpunk",
+    group_number: 34,
     members: [
         "Chathura🤗",
         "Chandula😎",
