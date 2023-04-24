@@ -8,7 +8,7 @@
             </span>
         </td>
         <td>
-            <img src="https://github.com/hack-elite-plus/.github/blob/main/profile/cyber-punk-2077.gif" width=400>
+            <img src="https://github.com/Team-Cyberpunk/.github/blob/main/cyber-punk-2077.gif?raw=true" width=400>
         </td>
     </tr>
 </table>
