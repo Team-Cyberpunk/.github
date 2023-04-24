@@ -39,7 +39,7 @@ const config = {
         "Thilini😁",
         "Anuththara😊"
     ],
-    company: "Nimbus Venture",
+    company: "99X",
     technologies_used: [
         "react",
         "mssql",
